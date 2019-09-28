@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">EventSearch_HW9_MuzeWu</string>
+    <string name="Keyword_Label">Keyword</string>
+    <string name="Cate_label">Category</string>
+    <string name="Dis_label">Distance</string>
+    <string name="From_label">From</string>
+    <string name="fromHere">Here</string>
+    <string name="fromOther">Other. Specify location</string>
+    <string-array name="cate_array">
+        <item>all</item>
+        <item>music</item>
+        <item>sports</item>
+        <item>arts &amp; theatre</item>
+        <item>film</item>
+        <item>miscellaneous</item>
+    </string-array>
+    <string-array name="unit_array">
+        <item>miles</item>
+        <item>kilometers</item>
+    </string-array>
+    <string name="location_hint">Type in the Location</string>
+    <string name="dis_hint">10</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="clear_Button">CLEAR</string>
+    <string name="resultActivity_name">Search Results</string>
+    <string name="artist">Artist/Team(s)</string>
+    <string name="venue">Venue</string>
+    <string name="time">Time</string>
+    <string name="cate">Category</string>
+    <string name="pR">Price Range</string>
+    <string name="status">Ticket Status</string>
+    <string name="buy">Buy Ticket At</string>
+    <string name="TM">Ticket Master</string>
+    <string name="sM">Seat Map</string>
+    <string name="viewHere">View Here</string>
+
+    <string name="name">Name</string>
+    <string name="fl">Followers</string>
+    <string name="pop">Popularity</string>
+    <string name="chechSp">Spotify</string>
+
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="phone">Phone Number</string>
+    <string name="hours">Open Hours</string>
+    <string name="gRule">General Rules</string>
+    <string name="cRule">Child Rules</string>
+
+    <string-array name="sortFilter">
+        <item>Default</item>
+        <item>Event Name</item>
+        <item>Time</item>
+        <item>Artist</item>
+        <item>Type</item>
+    </string-array>
+    <string-array name="sortOrder">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+    <string name="tw">twitter</string>
+    <string name="fav">favorite</string>
+
+    <string name="noFav">No Favorites</string>
+    <string name="noRes">No Results</string>
+
+    <string name="warning">Please enter mandatory field</string>
+
+</resources>
